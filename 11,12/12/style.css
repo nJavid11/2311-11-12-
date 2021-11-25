@@ -1,0 +1,105 @@
+#username{
+    position: relative;
+    left: 81px;
+    height: 20px;
+    width: 130;
+}
+
+#email{
+    position: relative;
+    left: 104px;
+    height: 20px;
+    width: 130;
+}
+#psw{
+    position: relative;
+    left: 84px;
+    height: 20px;
+    width: 130;
+}
+#cpsw{
+    position: relative;
+    left: 91px;
+    height: 20px;
+    width: 130;
+}
+
+#disname{
+    position: relative;
+    left: 54px;
+    height: 20px;
+    width: 130;
+}
+
+#name{
+    position: relative;
+    left: 110px;
+    height: 20px;
+    width: 100px;
+}
+
+#surname{
+    position: relative;
+    left: 120px;
+    height: 20px;
+    width: 140px;
+}
+
+#nickname{
+    position: relative;
+    left: 81px;
+    height: 20px;
+    width: 130;
+}
+#website{
+    position: relative;
+    left: 96px;
+    height: 20px;
+    width: 130;
+}
+#bio{
+    position: relative;
+    left: 127px;
+    height: 80px;
+    width: 264px;
+}
+#jabber{
+    position: relative;
+    left: 102px;
+    height: 20px;
+    width: 130;
+}
+#aol{
+    position: relative;
+    left: 91px;
+    height: 20px;
+    width: 130;
+}
+#yahoo{
+    position: relative;
+    left: 82px;
+    height: 20px;
+    width: 130;
+}
+button{
+    position: relative;
+    left: 154px;
+    height: 40px;
+    width: 210px;
+    background-color: rgba(0, 153, 255, 0.589);
+    color: rgba(255, 255, 255, 0.911);
+    font-size: 15px;
+}
+fieldset{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+input{
+    border-color: whitesmoke;
+}
+label{
+    color: rgba(0, 0, 0, 0.726);
+}
+h1{
+    color: rgba(0, 0, 0, 0.726);
+}

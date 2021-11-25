@@ -1,0 +1,101 @@
+#name{
+    position: relative;
+    left: 110px;
+    height: 20px;
+    width: 100px;
+}
+
+#surname{
+    position: relative;
+    left: 120px;
+    height: 20px;
+    width: 140px;
+}
+
+#email{
+    position: relative;
+    left: 104px;
+    height: 20px;
+    width: 300px;
+}
+#areaCode{
+    position: relative;
+    left: 47px;
+    height: 20px;
+    width: 40px;
+}
+#phoneNum{
+    position: relative;
+    left: 80px;
+    height: 20px;
+    width: 100px;
+}
+/* #phoneNum::before{
+    content: "-";    
+} */
+
+#sadress{
+    position: relative;
+    left: 104px;
+    height: 20px;
+    width: 300px;
+}
+#sadress2{
+    position: relative;
+    left: 155px;
+    height: 20px;
+    width: 300px;
+}
+#city{
+    position: relative;
+    left: 155px;
+    height: 20px;
+    width: 150px;
+}
+#state{
+    position: relative;
+    left: 165px;
+    height: 20px;
+    width: 128px;
+}
+#zip{
+    position: relative;
+    left: 155px;
+    height: 20px;
+    width: 90px;
+}
+select{
+    position: relative;
+    left: 225px;
+    height: 25px;
+    width: 136px;
+    background-color: rgb(235, 235, 235);
+}
+.p{
+    position: relative;
+    left: 25px;   
+}
+.c{
+    position: relative;
+    left: 96px;
+}
+.sf{
+    position: relative;
+    left: 149px;
+}
+#other{
+    position: relative;
+    left: 161px;
+    height: 18px;
+    width: 110px;
+}
+button{
+    position: relative;
+    left: 149px;
+    height: 30px;
+    width: 100px;
+}
+fieldset{
+    margin-left: 200px;
+    margin-right: 200px;
+}
